@@ -27,7 +27,7 @@ int main() {
         std ::cout << "Your guess was right!" << std::endl;
     } else {
         // otherwise, tell them they were wrong
-        std ::cout << "Your guess was wrong! The answer was " << 
+        std ::cout << "Your guess was wrong! The answer was " <<
         randomAnswer << "." << std::endl;
     }
 }
